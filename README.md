@@ -47,6 +47,7 @@ before submitting your pull requests.
 * macOS users:
   * Install the latest version of Xcode including the command-line tools. This command should work `xcode-select --install`
   * Apple Silicon Macs should add `build --host_platform=//:rosetta` to their `.bazelrc.local` file. We are working
+  * 
   to make sure this isn't required in the long run.
 * Windows users:
   *  Latest version of [Visual Studio](https://www.visualstudio.com/) with command line tools and build tools installed
