@@ -10,6 +10,7 @@ provides an infrastructure for the [W3C WebDriver specification](https://w3c.git
 — a platform and language-neutral coding interface compatible with all
 major web browsers.
 
+
 The project is made possible by volunteer contributors who've
 generously donated thousands of hours in code development and upkeep.
 
